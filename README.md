@@ -8,7 +8,6 @@ A web application powered by **Spring Boot**, **HTML**, **CSS**, **JavaScript**,
 - Real-time tracking of COVID-19 cases in India.
 - Interactive user interface with charts and graphs.
 - RESTful API for fetching COVID-19 data.
-- Responsive design for mobile and desktop users.
 
 - **Backend**: Spring Boot
 - **Frontend**: HTML, CSS, JavaScript
